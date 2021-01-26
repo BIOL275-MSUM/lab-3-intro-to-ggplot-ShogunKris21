@@ -1,6 +1,6 @@
 ---
 title: "Lab 3: Introduction to ggplot"
-author: "___"
+author: "Kristofer Sando"
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
