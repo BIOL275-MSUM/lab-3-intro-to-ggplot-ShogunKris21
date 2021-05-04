@@ -23,3 +23,4 @@ ggplot(data = birds) +
     axis.text.x = element_text(angle = 55, hjust = 1),
     axis.ticks.x = element_blank()
   )
+

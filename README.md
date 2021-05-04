@@ -1,7 +1,7 @@
 Lab 3: Introduction to ggplot
 ================
 Kristofer Sando
-2021-01-26
+2021-05-04
 
 > INSTRUCTIONS: REMOVE THIS LINE AND REPLACE \_\_\_\_ WITH YOUR OWN TEXT
 
